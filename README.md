@@ -15,6 +15,3 @@ Quickstart
    python examples/train_toy_model.py
 
 Keep it chill, tweak stuff, and learn by doing.
-
---
-Pushed by GitHub Copilot on user request.
