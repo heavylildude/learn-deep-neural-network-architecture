@@ -142,7 +142,7 @@ if (prediction !== reality) {
 
 ---
 
-## **🍕 Summary (TL;DR for Lazy Cunts)**
+## **🍕 Summary (TL;DR for Lazy C*nts)**
 | Concept | What It Does | Pizza Analogy | JS Analogy |
 |---------|--------------|---------------|------------|
 | **Neuron** | Brain cell that makes decisions | Pizza judge | `function` |
